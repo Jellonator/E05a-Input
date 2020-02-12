@@ -39,4 +39,4 @@ Instructions are as follows:
  - Run the project, and make sure the program is behaving as you would expect.
  - Update the LICENSE and README.md, commit your changes, and push them back to GitHub. Turn in the URL of your repository on Canvas.
 
-
+ :)
